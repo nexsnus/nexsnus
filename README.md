@@ -1,5 +1,3 @@
----
-
 ### 🧑‍💻 About me
 
 - 🔭 Currently working on <a href="https://nexsnus.github.io/NOVUS/novusclient.html">**Novus Client**</a> and <a href="https://nzcustom.github.io/website/">**NZCustom**</a>
